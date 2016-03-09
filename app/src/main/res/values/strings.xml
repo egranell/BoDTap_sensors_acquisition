@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="app_name">BoDTap Signals Acquisition</string>
+    <string name="title_activity_main">BoDTap Signals Acquisition</string>
+    <string name="menu_settings">Settings</string>
+
+    <string-array name="hand">
+        <item>Hand to use</item>
+        <item>Using the right hand</item>
+        <item>Using the left hand</item>
+    </string-array>
+
+    <string-array name="finger">
+        <item>Finger to use</item>
+        <item>Using the index finger</item>
+        <item>Using the middle finger</item>
+        <item>Using the thumb finger</item>
+    </string-array>
+
+    <string-array name="dominant">
+        <item>Dominant hand</item>
+        <item>My dominant hand is the right</item>
+        <item>My dominant hand is the left</item>
+    </string-array>
+    <string-array name="taps">
+        <item>Number of taps</item>
+        <item>1 tap</item>
+        <item>2 taps</item>
+        <item>3 taps</item>
+        <item>4 taps</item>
+    </string-array>
+</resources>
